@@ -54,6 +54,51 @@ margin-top:10px;
 margin-left: 10px;
 margin-top: 20px;
 }
+
+.wrapper {
+  width: 30%;
+  margin: 100px auto;
+  padding: 0px 30px;
+  background: whitesmoke;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+  line-height: 3rem;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+
+.error {
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #a94442;
+  color: #a94442;
+  background: #f2dede;
+  border-radius: 5px;
+  text-align: left;
+
+}
+
+.header{
+  width: auto;
+  margin: 0px;
+  padding: 0;
+  justify-content: center;
+  
+    
+}
+
+.logout {
+  text-decoration: none;
+  background: rgb(75,83,32);
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+
+.logout:hover{
+  background-color: rgb(165,115,213);
+}
 .forg{
   display:inline-block;
   position: relative;

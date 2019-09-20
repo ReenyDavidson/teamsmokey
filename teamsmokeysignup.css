@@ -22,6 +22,20 @@ height: 100vh;
   box-shadow: 0 10px 20px rgba(0,0,0,0.5);
   
 }
+
+
+.error {
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #a94442;
+  color: #a94442;
+  background: #f2dede;
+  border-radius: 5px;
+  text-align: left;
+
+}
+
 input[type="email"], input[type="password"], .firname, .surname{
  border: 1px solid white;
  background-color: transparent;
